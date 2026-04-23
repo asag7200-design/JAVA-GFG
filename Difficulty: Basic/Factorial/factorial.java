@@ -1,12 +1,9 @@
 class Solution {
-    // Function to calculate factorial of a number.
-    int factorial(int n) {
-        // code here
-   if(n==0)
-       return 1;
-       else
-       return n*factorial(n-1);
-   
-   
+    public int factorial(int n) {
+        int fact=1;
+        for(int i=1; i<=n; i++){
+            fact*= i;
+        }
+        return fact;
     }
-}
+}    
