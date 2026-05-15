@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1?page=2&category=Java&sortBy=submissions">Right Angle Triangle</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an integer<strong>&nbsp;s</strong><strong>. </strong>Write a program to print the Right angle triangle wall<strong>. </strong>The length&nbsp;of&nbsp;perpendicular and base&nbsp;is<strong> s.&nbsp;<br></strong>Note: Print exactly single " " after "<span style="font-size: 18pt;"><strong>*</strong></span>". Print a new line after printing the triangle.</span></p>
+<p><span style="font-size: 18px;"><strong>Example:</strong> <strong> </strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>s = 4
+<strong>Output:
+<span style="font-size: 18pt;">* </span></strong><br><span style="font-size: 18pt;"><strong>* * </strong></span><br><span style="font-size: 18pt;"><strong>* * * </strong></span><br><span style="font-size: 18pt;"><strong>* * * * </strong></span><br></span><span style="font-size: 18px;"><strong>Explanation: </strong>Length of perpendicular and base of triangle is 4 .</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>s = 3
+<strong>Output:
+<span style="font-size: 18pt;">* </span></strong><br><span style="font-size: 18pt;"><strong>* * </strong></span><br><span style="font-size: 18pt;"><strong>* * * </strong></span><br></span><span style="font-size: 18px;"><strong>Explanation: </strong>Length of perpendicular and base of triangle is 3 .</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ s ≤ 10</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;<code>Java</code>&nbsp;
