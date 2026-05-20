@@ -1,0 +1,7 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/right-angle-triangle-2-1605689820--102106/1?page=1&category=Java&difficulty=Basic,Easy,Medium&status=unsolved&sortBy=submissions">Right Angle Triangle 2</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an integer<strong> n</strong><strong>.&nbsp;</strong>Write a program to print the Right angle triangle<strong>.&nbsp;</strong>The length&nbsp;of the perpendicular and base&nbsp;is<strong> n.&nbsp;&nbsp;<br></strong></span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong> <strong> </strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>n = 9
+<strong>Output:<br>*<br>* *<br>*   *<br>*     *<br>*       *<br>*         *<br>*           *<br>*             *<br>* * * * * * * * * </strong>
+<strong>Explanation: </strong>Length of perpendicular and base of triangle is 9.</span></pre>
+<pre><strong><span style="font-size: 18px;">Input:</span></strong><span style="font-size: 18px;"> n = 4<br><strong>Output:<br>*<br>* *<br>*   *<br>* * * *<br>Explanation: </strong>Length of perpendicular and base of triangle is 4.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ n ≤ 12</span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>CPP</code>&nbsp;<code>Java</code>&nbsp;
